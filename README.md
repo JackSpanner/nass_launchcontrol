@@ -14,7 +14,11 @@
 
 
 ## Extra Information
+/lc for launch control
+/lc2 for burnout 
+/tc for traction control on/off
 
+using bumpbox you need to use /lc and wait for the prompt to bump
 
  Please leave any issues you may have here on github
 
